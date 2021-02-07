@@ -1,0 +1,226 @@
+{
+  "talker_category": [
+    {
+      "title": "খাবো",
+      "image": "img_eat",
+      "sound": "audio_eat",
+      "items": [
+        {
+          "title": "ভাত",
+          "image": "img_eat_rice",
+          "sound": "audio_eat_rice"
+        },
+        {
+          "title": "পারাটা",
+          "image": "img_eat_parata",
+          "sound": "audio_eat_parata"
+        },
+        {
+          "title": "খিচুড়ি",
+          "image": "img_eat_khisuri",
+          "sound": "audio_eat_khisuri"
+        },
+        {
+          "title": "মাছ",
+          "image": "ic_eat_fish",
+          "sound": "audio_eat_fish"
+        },
+        {
+          "title": "মুরগি",
+          "image": "ic_eat_chicken",
+          "sound": "audio_eat_chicken"
+        },
+        {
+          "title": "মাংস",
+          "image": "img_eat_meat",
+          "sound": "audio_eat_meat"
+        }
+      ]
+    },
+    {
+      "title": "পান করবো",
+      "image": "img_drink",
+      "sound": "audio_drink",
+      "items": [
+        {
+          "title": "পানি",
+          "image": "drink_water",
+          "sound": "audio_drink_water"
+        },
+        {
+          "title": "দুধ",
+          "image": "drink_milk",
+          "sound": "audio_drink_milk"
+        },
+        {
+          "title": "আমের জুস",
+          "image": "img_drink_mango",
+          "sound": "audio_drink_mango"
+        },
+        {
+          "title": "আঙ্গুরের জুস",
+          "image": "drink_grapej",
+          "sound": "audio_drink_grapej"
+        },
+        {
+          "title": "আপেলের জুস",
+          "image": "drink_app",
+          "sound": "audio_drink_app"
+        },
+        {
+          "title": "কমলার জুস",
+          "image": "drink_oj",
+          "sound": "audio_drink_oj"
+        }
+      ]
+    },
+    {
+      "title": "চাই",
+      "image": "want",
+      "sound": "audio_want",
+      "items": [
+        {
+          "title": "বই পড়তে",
+          "image": "want_book",
+          "sound": "audio_want_book"
+        },
+        {
+          "title": "লিখতে",
+          "image": "writesomething",
+          "sound": "audio_write"
+        },
+        {
+          "title": "গান শুনতে",
+          "image": "want_music",
+          "sound": "audio_want_music"
+        },
+        {
+          "title": "গোসল",
+          "image": "ic_showers",
+          "sound": "audio_showers"
+        },
+        {
+          "title": "টিভি দেখতে",
+          "image": "want_tv",
+          "sound": "audio_want_tv"
+        },
+        {
+          "title": "আরো চাই ",
+          "image": "moreee",
+          "sound": "audio_moreee"
+        }
+      ]
+    },
+    {
+      "title": "খেলবো",
+      "image": "play",
+      "sound": "audio_play",
+      "items": [
+        {
+          "title": "ক্রিকেট",
+          "image": "img_play_cricket",
+          "sound": "audio_play_cricket"
+        },
+        {
+          "title": "ফুটবল",
+          "image": "play_ball",
+          "sound": "audio_play_ball"
+        },
+        {
+          "title": "ধাঁধা",
+          "image": "puzzle",
+          "sound": "audio_puzzle"
+        },
+        {
+          "title": "দোলনা",
+          "image": "play_swing",
+          "sound": "audio_play_swing"
+        },
+        {
+          "title": "পুতুল",
+          "image": "play_toys",
+          "sound": "audio_play_toys"
+        },
+        {
+          "title": "ভিডিও গেম",
+          "image": "play_videogame",
+          "sound": "audio_play_videogame"
+        }
+      ]
+    },
+    {
+      "title": "অনুভব করি",
+      "image": "img_feel",
+      "sound": "audio_feel",
+      "items": [
+        {
+          "title": "বুঝতে পারছি না",
+          "image": "ic_feel_dont_understand",
+          "sound": "audio_dont_understand"
+        },
+        {
+          "title": "শুনতে পারি না",
+          "image": "img_feel_cant_hear",
+          "sound": "audio_feel_cant_hear"
+        },
+        {
+          "title": "ঘুমাতে পারি না",
+          "image": "fav_sleepy",
+          "sound": "audio_fav_sleepy"
+        },
+        {
+          "title": "ধরতে পারছি না",
+          "image": "fav_reach",
+          "sound": "audio_fav_reach"
+        },
+        {
+          "title": "খারাপ লাগছে",
+          "image": "img_feel_bad",
+          "sound": "audio_feel_bad"
+        },
+        {
+          "title": "আমার চাই ",
+          "image": "fav_need",
+          "sound": "audio_fav_need"
+        }
+      ]
+    },
+    {
+      "title": "যাবো",
+      "image": "go",
+      "sound": "audio_go",
+      "items": [
+        {
+          "title": "গোসল করতে ",
+          "image": "takebath",
+          "sound": "audio_take_bath"
+        },
+        {
+          "title": "বাথরুমে",
+          "image": "go_restroom",
+          "sound": "audio_go_restroom"
+        },
+        {
+          "title": "বন্ধুর কাছে",
+          "image": "go_friends",
+          "sound": "audio_go_friends"
+        },
+        {
+          "title": "হাত ধুতে",
+          "image": "go_washhands",
+          "sound": "audio_go_washhands"
+        },
+        {
+          "title": "বাসায়",
+          "image": "go_home",
+          "sound": "audio_go_home"
+        },
+        {
+          "title": "স্কুলে",
+          "image": "go_school",
+          "sound": "audio_school"
+        }
+      ]
+    }
+  ]
+}
